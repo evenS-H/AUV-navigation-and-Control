@@ -16,4 +16,4 @@ version: "1.0.0"
 repository-code: "https://github.com/USERNAME/AUV-navigation-and-Control"
 abstract: "ROS 2 codebase for DVL-aided navigation, LOS guidance, PID control, thruster vectoring, mission handling, and visualization for an AUV bachelor thesis."
 license: MIT
-# doi: 10.5281/zenodo.XXXXXXX  # Uncomment and fill in after Zenodo release
+doi: 10.5281/zenodo.20153798
