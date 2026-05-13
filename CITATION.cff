@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "AUV Navigation and Control ROS 2 Codebase"
+type: software
+authors:
+  - family-names: Heimdal
+    given-names: Sindre
+  - family-names: Bernløv
+    given-names: Tim Sørensen
+  - family-names: Strand-Hanssen
+    given-names: Even
+  - family-names: Brunvoll
+    given-names: Erlend Ek
+year: 2026
+version: "1.0.0"
+repository-code: "https://github.com/USERNAME/AUV-navigation-and-Control"
+abstract: "ROS 2 codebase for DVL-aided navigation, LOS guidance, PID control, thruster vectoring, mission handling, and visualization for an AUV bachelor thesis."
+license: MIT
+# doi: 10.5281/zenodo.XXXXXXX  # Uncomment and fill in after Zenodo release

@@ -1,0 +1,22 @@
+# ROS2 / colcon generated folders
+build/
+install/
+log/
+
+# Local dependency folders
+pydeps/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
